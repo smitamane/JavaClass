@@ -1,5 +1,5 @@
 public class Balancearray {
-
+// To check if total of both strings Left hand side and right hand side is equal
     public static void main(String[] args) {
         int[] onearray = {5, 3, 1, 5, 6, 1, 1, 1};
         boolean isBalnced =false;

@@ -1,5 +1,6 @@
 public class Combinationstring {
 
+    //To display permutations and combinations of given string
     public static void main(String[] args) {
         {
             String name = "smita";
@@ -10,11 +11,7 @@ public class Combinationstring {
 
                 System.out.println(name.substring(i+1)+name.substring(0,i+1));
                // name= name.substring(1)+name.charAt(0);
-
-
             }
-
-
         }
     }
 }
