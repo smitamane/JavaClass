@@ -1,0 +1,4 @@
+[DEBUG] 2019-08-03 20:04:55,217 properties.LoggerPractise main(10) debug
+[WARN] 2019-08-03 20:04:55,233 properties.LoggerPractise main(11) warn
+[DEBUG] 2019-08-03 20:04:55,233 properties.LoggerPractise main(12) fatal
+[WARN] 2019-08-03 20:04:55,233 properties.LoggerPractise main(13) error
